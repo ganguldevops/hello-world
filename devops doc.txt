@@ -1,0 +1,18 @@
+AWS cred:
+email : gangul.reddy28@gmail.com
+un : ganguldevops
+pw : Gangul@123
+
+github cred:
+----------
+un : ganguldevops
+email : gangulyap6@gmail.com
+pw : Gangul@123
+
+Public IPv4 address  : 15.206.68.169
+
+Platform  : Cent OS
+
+os name(Cent OS) : centos
+
+ssh -i centosdevops.pem centos@15.206.68.169
